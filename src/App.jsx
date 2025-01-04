@@ -21,6 +21,7 @@ function App() {
               <button onClick={() => handleGetStarted()} className="get-started-btn">
                 Get Started
               </button>
+              <p>test test</p>
             </div>
           </div>
           <div className="aboutus_main">
